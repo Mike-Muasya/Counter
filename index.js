@@ -4,7 +4,7 @@ let myAge = 28
 
 let humanDogRatio = 7
 
-let myDogAge = myAge * humanDogRatio
+let myDogAge = myAge + humanDogRatio
 
 console.log(myDogAge)
 
